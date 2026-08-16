@@ -1,0 +1,10 @@
+# 不上传任何客户底稿与财务数据
+*.xlsx
+*.xls
+*.csv
+*.sql.bak
+*.zip
+*.pkl
+*.parquet
+data/
+output/
